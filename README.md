@@ -15,7 +15,7 @@ The dataset (77,536 data points) was split into training and testing sets. The t
 
 ## Results
 
-<strong>Logistic Regression Model 1:</strong>
+<strong>Logistic Regression Model</strong>
 
 * Accuracy: 94% accurate (macro average, by category), 99% based on a weighted average (by loan risk classification).
 * Precision: 93% (on average).  In predicting low-risk loans, the model was 100% precise, though the model was less precise at 87% precise in predicting high-risk loans.
